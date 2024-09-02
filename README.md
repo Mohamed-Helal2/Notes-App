@@ -1,16 +1,23 @@
-# note
+# Note App
+## Folders
+![Add More Folders](https://github.com/user-attachments/assets/9be97cf7-51ff-46d0-8ff7-2ad5651ee96c)
 
-A new Flutter project.
+## Home
+![Home](https://github.com/user-attachments/assets/98c83223-cf32-4b01-94bf-ced1c207894b)
 
-## Getting Started
+## images
+![images](https://github.com/user-attachments/assets/a2b4eb4d-6f99-4a0d-8041-a5799979625d)
 
-This project is a starting point for a Flutter application.
+## pdf
+![pdf](https://github.com/user-attachments/assets/445279f6-039d-428c-a7f8-191e4fc1993e)
 
-A few resources to get you started if this is your first Flutter project:
+## record
+![Record](https://github.com/user-attachments/assets/95b3758d-9cef-420b-acd7-859a94143650)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## search 
+![Search](https://github.com/user-attachments/assets/fa284e30-da19-4e70-bcd9-dc3dbb7a4b40)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## text
+![Text](https://github.com/user-attachments/assets/04564f57-dcc7-4896-8cd1-4b227d2bf57d)
+
+
