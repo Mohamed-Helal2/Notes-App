@@ -1,0 +1,9 @@
+flutter_native_splash:
+  # Android + ios blew 12.
+  color: "#ffffff" 
+  image: assets/images/nsplash.png
+  # background_image: assets/images/Splash.png 
+  
+  android_12:
+    color: "#ffffff"
+    image: assets/images/nsplash.png
